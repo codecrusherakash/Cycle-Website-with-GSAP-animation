@@ -1,0 +1,60 @@
+let ele1=document.getElementById('button1')
+ele1.addEventListener('click',function(){
+    alert('Connecting to Our Community')
+});
+let ele2=document.getElementById('button2')
+ele2.addEventListener('click',function(){
+    alert('Booking starts soon,under process')
+});
+var t=gsap.timeline()
+t.from("h1",{
+    y:1200,
+    duration:0.7,
+    delay:1
+})
+t.from("#list",{
+    x:-1500,
+    duration:0.7,
+    delay:1
+})
+t.from("#icons",{
+    x:1500,
+    duration:0.7,
+    delay:1,
+})
+t.from("#button1",{
+    x:1200,
+    duration:0.7,
+    delay:1
+})
+t.from("h3",{
+    x:-1200,
+    duration:0.7,
+    delay:1
+})
+t.from("#button2",{
+    x:-1200,
+    duration:0.7,
+    delay:1
+})
+t.from("h2",{
+    y:1200,
+    duration:0.7,
+    delay:1,
+    rotate:360
+})
+t.from("img",{
+    x:1200,
+    duration:0.7,
+    delay:1
+})
+t.from("#circle",{
+    y:-1200,
+    duration:0.7,
+    delay:1
+})
+t.from("#circle2",{
+    y:-1200,
+    duration:0.7,
+    delay:1
+})

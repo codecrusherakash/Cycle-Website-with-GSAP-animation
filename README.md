@@ -1,6 +1,6 @@
 # Cycle-Website-with-GSAP-animation
 My Project made in order to learn Website Animation basics using GSAP from Js.
-GSAP Basics – Learning Through Action
+GSAP Basics – Learning Through Action<br>
 I recently completed a project to understand the fundamentals of GSAP (GreenSock Animation Platform).
 No frameworks. No shortcuts. Just HTML, CSS, and GSAP, line by line.
 <br>

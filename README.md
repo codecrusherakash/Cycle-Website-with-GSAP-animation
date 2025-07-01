@@ -24,5 +24,5 @@ let's get connected on linkedIn<br>https://www.linkedin.com/in/codecrusherakash
 If you’ve worked with GSAP before or just enjoy clean UI/UX, I’d genuinely appreciate your feedback.
 <br>
 I’m currently learning JavaScript and responsive design, and I’ll be applying both in upcoming projects.<br>
-#WebDevelopment #GSAP #FrontendDev #HTML #CSS #Animation #GreenSock #StudentDeveloper #BuildInPublic <img width="960" alt="Screenshot 2025-07-01 120333" src="https://github.com/user-attachments/assets/2e884df9-2252-46b8-bba8-a24b3ae65bf5" />
-#Consistency
+#WebDevelopment #GSAP #FrontendDev #HTML #CSS #Animation #GreenSock #StudentDeveloper #BuildInPublic #Consistency <img width="960" alt="Screenshot 2025-07-01 120333" src="https://github.com/user-attachments/assets/2e884df9-2252-46b8-bba8-a24b3ae65bf5" />
+
